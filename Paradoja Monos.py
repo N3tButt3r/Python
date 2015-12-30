@@ -1,5 +1,5 @@
 # Archivo: Paradoja Monos.py
-# Autor: Genís Martínez (nombre y apellidos)
+# Autor: Genís Martínez 
 # Fecha: 02 de Diciembre de 2015
 # Descripción: Ejercicio probabilidad infinita. 
 
